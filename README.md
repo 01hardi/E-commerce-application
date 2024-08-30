@@ -1,6 +1,6 @@
-# Mock Company E-Commerce Application
+# E-Commerce Application
 
-This is the e-commerce application for Mock Company.  It's built using the following languages/frameworks
+This is an e-commerce application.  It's built using the following languages/frameworks
 
 | Language/Framework       | Usage | Source Location |
 | ------------------------ | ------- | --------------- |
